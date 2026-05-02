@@ -1,0 +1,60 @@
+# Privacy Policy for Board Notes Organizer
+
+Effective date: May 2, 2026
+
+Board Notes Organizer values your privacy. This Privacy Policy explains what information the app may access, how it is used, and the choices you have.
+
+## Information the app may access
+
+Board Notes Organizer may request access to the following device features and content:
+
+- Camera, to let you capture photos.
+- Photos, videos, and files, to let you open, manage, edit, and organize your notes and images.
+- Internet access, to support online features such as image processing and content sharing.
+
+## How information is used
+
+Information accessed by the app is used only to provide app functionality, including:
+
+- Capturing and displaying photos.
+- Organizing and storing files and notes on your device.
+- Sharing content through your device's sharing tools.
+- Processing images for text extraction when you use the OCR or text transformation feature.
+
+## Image processing and third-party services
+
+When you use the text transformation feature, the app may send the selected image to our processing service at `https://ashel-api.herokuapp.com/processing-Text` so it can extract text from the image.
+
+That service receives only the image you choose to process for that feature. We do not intentionally use that service to collect personal data for advertising, profiling, or unrelated purposes.
+
+## Data storage
+
+Most app data is stored locally on your device. The app may save files, notes, or media that you choose to create or import. We do not require account registration for the app.
+
+If you use the text transformation feature, the image you submit may be temporarily transmitted to the processing service to complete the request. You should avoid submitting sensitive content unless you are comfortable with that transmission.
+
+## Data sharing
+
+We do not sell your personal information.
+
+We do not share your data with advertisers or data brokers. Data may be shared only in the following situations:
+
+- To provide a feature you requested, such as image-to-text processing.
+- If required by law or to respond to valid legal requests.
+- To protect the rights, safety, or security of users and the service.
+
+## Permissions
+
+Android permissions used by the app are requested only when needed for app features. You can deny permissions, but some features may not work properly without them.
+
+## Children
+
+Ashel is not intended for children under 13. We do not knowingly collect personal information from children under 13.
+
+## Changes to this policy
+
+We may update this Privacy Policy from time to time. Any changes will be posted in the updated version of this policy.
+
+## Contact
+
+If you have questions about this Privacy Policy, contact the app developer or publisher at the email address listed with the app store listing or website where this policy is published.
